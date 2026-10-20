@@ -1,7 +1,7 @@
 # Sébastien Ramirez
 
 Étudiant en 3e année à l'EFREI, je recherche une alternance en informatique.
-Je n'ai pas encore choisi de spécialisation : mes projets de cours me permettent d'explorer la programmation, l'algorithmique et le développement web.
+Mes projets de cours portent sur la programmation, l'algorithmique et le développement web.
 
 ## Projets de formation
 
