@@ -11,6 +11,7 @@ Mes projets de cours portent sur la programmation, l'algorithmique et le dévelo
 | [Graphes et chaînes de Markov](https://github.com/Sebastienrmz/projet-cP2) | Identifier les classes d'un graphe avec Tarjan et calculer des puissances de matrices de transition. | C |
 | [Green Ball](https://github.com/Sebastienrmz/projet-transverse) | Jouer un duel de basket à deux joueurs, avec plusieurs niveaux de difficulté. | Python, Pygame |
 | [Site vitrine EFREI](https://github.com/Sebastienrmz/projet-web1) | Parcourir un site avec navigation mobile, carrousel, filtres et formulaire de démonstration. | HTML, CSS, JavaScript |
+| [Réservation de voyages](https://github.com/Sebastienrmz/sql-reservation-voyages) | Concevoir une base relationnelle et consulter les réservations, paiements et offres avec 40 requêtes. | SQL, MySQL, MERISE |
 
 Ces projets ont été réalisés en binôme ou en équipe. Chaque dépôt précise la répartition du travail, le fonctionnement et les étapes pour le lancer.
 
@@ -19,6 +20,7 @@ Ces projets ont été réalisés en binôme ou en équipe. Chaque dépôt préci
 - **C** : manipulation des pixels, fichiers binaires, mémoire dynamique, listes et matrices.
 - **Python / Pygame** : menus et interactions dans un jeu réalisé en équipe.
 - **HTML, CSS et JavaScript** : pages web, mise en page responsive et interactions dans le navigateur.
+- **SQL / MySQL** : modélisation MERISE, clés et contraintes, jointures, agrégations et sous-requêtes.
 - **Algorithmique** : structures de données, parcours de graphes et calcul matriciel.
 
 Je souhaite poursuivre cet apprentissage en entreprise, contribuer à des projets concrets et progresser au contact d'une équipe.
