@@ -3,6 +3,8 @@
 Étudiant en 3e année à l'EFREI, je recherche une alternance en informatique de deux ans à partir de septembre 2027.
 Mes projets de cours portent sur la programmation, l'algorithmique et le développement web.
 
+**[Mon site vitrine pour l’alternance](https://sebastienrmz.github.io/portfolio/)** — parcours, compétences, projets et contact.
+
 ## Projets de formation
 
 | Projet | Ce que fait le programme | Technologies |
