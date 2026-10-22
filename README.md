@@ -17,6 +17,16 @@ Mes projets de cours portent sur la programmation, l'algorithmique et le dévelo
 
 Ces projets ont été réalisés en binôme ou en équipe. Chaque dépôt précise la répartition du travail, le fonctionnement et les étapes pour le lancer.
 
+## Essayer les projets
+
+Les versions Windows se téléchargent sans compiler le code : extraire le ZIP puis ouvrir **Tester.bat**.
+
+- [Filtres d’images - Windows](https://github.com/Sebastienrmz/projet-C/releases/latest)
+- [Graphes de Markov - Windows](https://github.com/Sebastienrmz/projet-cP2/releases/latest)
+- [Green Ball - Windows](https://github.com/Sebastienrmz/projet-transverse/releases/latest)
+- [Site EFREI - démonstration en ligne](https://sebastienrmz.github.io/projet-web1/)
+- [Base SQL - essai dans MySQL Workbench](https://github.com/Sebastienrmz/sql-reservation-voyages#essayer-avec-un-seul-fichier)
+
 ## Ce que j'ai pratiqué
 
 - **C** : manipulation des pixels, fichiers binaires, mémoire dynamique, listes et matrices.
