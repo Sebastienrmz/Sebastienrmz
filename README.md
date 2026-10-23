@@ -9,6 +9,7 @@ Mes projets de cours portent sur la programmation, l'algorithmique et le dévelo
 
 | Projet | Ce que fait le programme | Technologies |
 | --- | --- | --- |
+| [E-Senior](https://github.com/Sebastienrmz/e-senior) | Simplifier l’accès aux contacts et aux fonctions du téléphone. Équipe de trois ; ma partie : contacts et base de données. | Dart, Flutter, SQLite |
 | [Traitement d'images BMP](https://github.com/Sebastienrmz/projet-C) | Appliquer des filtres à des images en niveaux de gris ou en couleur. | C |
 | [Graphes et chaînes de Markov](https://github.com/Sebastienrmz/projet-cP2) | Identifier les classes d'un graphe avec Tarjan et calculer des puissances de matrices de transition. | C |
 | [Green Ball](https://github.com/Sebastienrmz/projet-transverse) | Jouer un duel de basket à deux joueurs, avec plusieurs niveaux de difficulté. | Python, Pygame |
@@ -21,6 +22,7 @@ Ces projets ont été réalisés en binôme ou en équipe. Chaque dépôt préci
 
 Les versions Windows se téléchargent sans compiler le code : extraire le ZIP puis ouvrir **Tester.bat**.
 
+- [E-Senior - démonstration Android](https://github.com/Sebastienrmz/e-senior#essayer-lapplication)
 - [Filtres d’images - Windows](https://github.com/Sebastienrmz/projet-C/releases/latest)
 - [Graphes de Markov - Windows](https://github.com/Sebastienrmz/projet-cP2/releases/latest)
 - [Green Ball - Windows](https://github.com/Sebastienrmz/projet-transverse/releases/latest)
@@ -32,6 +34,7 @@ Les versions Windows se téléchargent sans compiler le code : extraire le ZIP p
 - **C** : manipulation des pixels, fichiers binaires, mémoire dynamique, listes et matrices.
 - **Python / Pygame** : menus et interactions dans un jeu réalisé en équipe.
 - **HTML, CSS et JavaScript** : pages web, mise en page responsive et interactions dans le navigateur.
+- **Dart / Flutter / SQLite** : gestion de contacts et persistance locale dans une application mobile réalisée à trois.
 - **SQL / MySQL** : modélisation MERISE, clés et contraintes, jointures, agrégations et sous-requêtes.
 - **Algorithmique** : structures de données, parcours de graphes et calcul matriciel.
 
