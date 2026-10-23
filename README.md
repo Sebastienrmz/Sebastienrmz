@@ -8,15 +8,13 @@
 
 Ces projets ont été réalisés en binôme ou en équipe pendant ma formation. Les README présentent leur fonctionnement et les participants.
 
-| Projet | Description | Technologies |
-| --- | --- | --- |
-| [E-Senior](https://github.com/Sebastienrmz/e-senior) | Application pour seniors, réalisée à trois. J’ai travaillé sur les contacts et la base de données locale. | Dart, Flutter, SQLite |
-| [Filtres d’images BMP](https://github.com/Sebastienrmz/projet-C) | Lecture et traitement des pixels : négatif, luminosité, seuillage et histogramme. | C |
-| [Automates finis](https://github.com/Sebastienrmz/automates-finis) | Transformations d’automates et reconnaissance de mots. Projet réalisé à trois. | Python |
-| [Graphes et chaînes de Markov](https://github.com/Sebastienrmz/projet-cP2) | Composantes fortement connexes avec Tarjan et calcul de matrices de transition. | C |
-| [Green Ball](https://github.com/Sebastienrmz/projet-transverse) | Jeu de basket à deux joueurs. J’ai travaillé sur le menu. | Python, Pygame |
-| [Site vitrine EFREI](https://github.com/Sebastienrmz/projet-web1) | Site réalisé en binôme. Ma partie : JavaScript et pages Formations, Enseignants, Contact et À propos. | HTML, CSS, JavaScript |
-| [Réservation de voyages](https://github.com/Sebastienrmz/sql-reservation-voyages) | Base d’agence de voyages conçue en binôme : 11 tables et 40 requêtes. | MySQL, MERISE |
+- [E-Senior](https://github.com/Sebastienrmz/e-senior) (Dart, Flutter, SQLite) : Application pour seniors, réalisée à trois. J’ai travaillé sur les contacts et la base de données locale.
+- [Filtres d’images BMP](https://github.com/Sebastienrmz/projet-C) (C) : Lecture et traitement des pixels : négatif, luminosité, seuillage et histogramme.
+- [Automates finis](https://github.com/Sebastienrmz/automates-finis) (Python) : Transformations d’automates et reconnaissance de mots. Projet réalisé à trois.
+- [Graphes et chaînes de Markov](https://github.com/Sebastienrmz/projet-cP2) (C) : Composantes fortement connexes avec Tarjan et calcul de matrices de transition.
+- [Green Ball](https://github.com/Sebastienrmz/projet-transverse) (Python, Pygame) : Jeu de basket à deux joueurs. J’ai travaillé sur le menu.
+- [Site vitrine EFREI](https://github.com/Sebastienrmz/projet-web1) (HTML, CSS, JavaScript) : Site réalisé en binôme. Ma partie : JavaScript et pages Formations, Enseignants, Contact et À propos.
+- [Réservation de voyages](https://github.com/Sebastienrmz/sql-reservation-voyages) (MySQL, MERISE) : Base d’agence de voyages conçue en binôme : 11 tables et 40 requêtes.
 
 ## Essayer les projets
 
