@@ -11,6 +11,7 @@ Mes projets de cours portent sur la programmation, l'algorithmique et le dévelo
 | --- | --- | --- |
 | [E-Senior](https://github.com/Sebastienrmz/e-senior) | Simplifier l’accès aux contacts et aux fonctions du téléphone. Équipe de trois ; ma partie : contacts et base de données. | Dart, Flutter, SQLite |
 | [Traitement d'images BMP](https://github.com/Sebastienrmz/projet-C) | Appliquer des filtres à des images en niveaux de gris ou en couleur. | C |
+| [Automates finis](https://github.com/Sebastienrmz/automates-finis) | Lire et transformer des automates, reconnaître des mots et construire le langage complémentaire. Projet réalisé à trois. | Python, algorithmique |
 | [Graphes et chaînes de Markov](https://github.com/Sebastienrmz/projet-cP2) | Identifier les classes d'un graphe avec Tarjan et calculer des puissances de matrices de transition. | C |
 | [Green Ball](https://github.com/Sebastienrmz/projet-transverse) | Jouer un duel de basket à deux joueurs, avec plusieurs niveaux de difficulté. | Python, Pygame |
 | [Site vitrine EFREI](https://github.com/Sebastienrmz/projet-web1) | Parcourir un site avec navigation mobile, carrousel, filtres et formulaire de démonstration. | HTML, CSS, JavaScript |
@@ -25,6 +26,7 @@ Les versions Windows se téléchargent sans compiler le code : extraire le ZIP p
 - [E-Senior - démonstration Android](https://github.com/Sebastienrmz/e-senior#essayer-lapplication)
 - [Filtres d’images - Windows](https://github.com/Sebastienrmz/projet-C/releases/latest)
 - [Graphes de Markov - Windows](https://github.com/Sebastienrmz/projet-cP2/releases/latest)
+- [Automates finis - Windows](https://github.com/Sebastienrmz/automates-finis/releases/latest)
 - [Green Ball - Windows](https://github.com/Sebastienrmz/projet-transverse/releases/latest)
 - [Site EFREI - démonstration en ligne](https://sebastienrmz.github.io/projet-web1/)
 - [Base SQL - essai dans MySQL Workbench](https://github.com/Sebastienrmz/sql-reservation-voyages#essayer-avec-un-seul-fichier)
