@@ -4,6 +4,17 @@
 
 [Portfolio](https://sebastienrmz.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-ramirez-746999329/)
 
+## Compétences
+
+- **Programmation :** C, Python, Java ; Dart utilisé en projet.
+- **Développement web et mobile :** HTML, CSS, JavaScript ; Flutter utilisé en projet.
+- **Bases de données :** SQL, MySQL, SQLite ; modélisation MERISE.
+- **Algorithmique et outils :** structures de données, théorie des graphes ; GitHub.
+- **Réseaux :** réseaux informatiques et protocoles de communication.
+- **Architecture et systèmes :** architecture des ordinateurs et systèmes d’exploitation.
+- **Intelligence artificielle :** introduction à l’apprentissage automatique (machine learning).
+- **Langues :** anglais et portugais, niveau intermédiaire.
+
 ## Projets de formation
 
 Ces projets ont été réalisés en binôme ou en équipe pendant ma formation. Les README présentent leur fonctionnement et les participants.
